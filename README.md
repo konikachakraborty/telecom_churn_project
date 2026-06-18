@@ -18,8 +18,9 @@ This project analyzes customer churn patterns in a telecom company using SQL, Py
 
 🛠 Tools & Technologies
 
-- SQL – Data exploration and business insights
-- Python – Data cleaning and analysis
+- Microsoft Excel - Data cleaning 
+- SQL – Data exploration and business insight
+- Python – (Pandas,Matplotlib, Seaborn)- Data analysis
 - Power BI – Interactive dashboard creation
 - CSV Dataset – Telecom customer data
 

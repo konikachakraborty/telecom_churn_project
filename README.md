@@ -1,12 +1,12 @@
 📊 Telecom Customer Churn Analysis
 
-##📌 Project Overview
+📌 Project Overview
 
 This project analyzes customer churn patterns in a telecom company using SQL, Python, and Power BI. The objective is to identify key factors driving customer attrition and provide actionable recommendations to improve customer retention.
 
 ---
 
-##🧹 Data Cleaning
+🧹 Data Cleaning
 
 Before importing the dataset into SQL, Python, and Power BI, the data was cleaned in Microsoft Excel.
 
@@ -16,7 +16,7 @@ Before importing the dataset into SQL, Python, and Power BI, the data was cleane
 
 ---
 
-##🎯 Objectives
+🎯 Objectives
 
 - Analyze customer churn behavior.
 - Identify factors contributing to churn.
@@ -26,7 +26,7 @@ Before importing the dataset into SQL, Python, and Power BI, the data was cleane
 
 ---
 
-##🛠 Tools & Technologies
+🛠 Tools & Technologies
 
 - Microsoft Excel - Data cleaning 
 - SQL – Data exploration and business insight
@@ -36,7 +36,7 @@ Before importing the dataset into SQL, Python, and Power BI, the data was cleane
 
 ---
 
-##📂 Project Structure
+📂 Project Structure
 
 telecom_churn_project
 │
@@ -62,7 +62,7 @@ telecom_churn_project
 
 ---
 
-##📈 Dashboard Pages
+📈 Dashboard Pages
 
 1. Executive Overview
 
@@ -100,7 +100,7 @@ telecom_churn_project
 
 ---
 
-##💡 Recommendations
+💡 Recommendations
 
 - Improve customer support experience.
 - Focus on customers with frequent service calls.
@@ -109,7 +109,7 @@ telecom_churn_project
 
 ---
 
-##📸 Dashboard Screenshots
+📸 Dashboard Screenshots
 
 ### Executive Overview
 

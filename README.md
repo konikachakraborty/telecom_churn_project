@@ -8,11 +8,11 @@ This project analyzes customer churn patterns in a telecom company using SQL, Py
 
 🧹 Data Cleaning
 
-Before importing the dataset into SQL, Python, and Power BI, the data was cleaned in Microsoft Excel.
+  Before importing the dataset into SQL, Python, and Power BI, the data was cleaned in Microsoft Excel.
 
-- Removed duplicate records.
-- Handled blank/missing values.
-- Ensure the dataset was clean and ready for analysis.
+  - Removed duplicate records.
+  - Handled blank/missing values.
+  - Ensure the dataset was clean and ready for analysis.
 
 ---
 
